@@ -1,0 +1,6 @@
+git init
+git add 需要上传的文件
+git commit -m "first commit"
+git branch -M master
+git remote add origin 仓库地址
+git push -u origin master
